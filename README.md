@@ -36,18 +36,18 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Java basics" alt="java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="MongoDB basics" alt="mongodb" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java basics" alt="java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="vscode" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Tableau" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons" title="Tableau" alt="python" width="40" height="40"/>&nbsp;
  <img src="https://www.flaticon.com/free-icon/excel_888850" title="MS Excel" width="40" height="40"/>&nbsp;
  </div>
  
