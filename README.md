@@ -44,7 +44,7 @@
  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/ides/eclipse.svg" title="Eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/ides/pycharm.svg" title="Pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/angular.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/html.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/css.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
  <img src="https://github.com/LOGO/Tableau/images/logo-black.svg" title="Tableau" alt="python" width="40" height="40"/>&nbsp;
