@@ -48,6 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
  <img src="https://github.com/logo/Tableau/blob/master/images/logo.svg" title="Tableau" alt="tableau" width="40" height="40"/>&nbsp;
- <img src="https://www.flaticon.com/free-icon/excel_888850" title="MS Excel" alt="excel" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/SurbhiP12/IPL-Data-Analysis-using-Excel/blob/main/excel.png" title="MS Excel" alt="excel" width="40" height="40"/>&nbsp;
  </div>
  
