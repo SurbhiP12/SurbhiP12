@@ -49,4 +49,5 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/css.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
  <img src="https://github.com/LOGO/Tableau/images/logo-black.svg" title="Tableau" alt="python" width="40" height="40"/>&nbsp;
  <img src="https://www.flaticon.com/free-icon/excel_888850" title="MS Excel" width="40" height="40"/>&nbsp;
+ </div>
  
