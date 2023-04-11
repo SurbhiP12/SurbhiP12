@@ -9,12 +9,30 @@
 <img src="https://img.shields.io/badge/Portfolio-Blue?style=for-the-badge&logo=Portfolio &logoColor=white" alt="Portfolio Badge"/>
 </a>
 <a href="https://www.twitter.com/_priya_twt">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter &logoColor=white" alt="Twitter Badge"/>
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter &logoColor=white" alt="Twitter Badge"/>
 </a>
 </div>
  <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+---
+
+### :woman_technologist: About Me :I am an aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+:telescope: I am a soon-to-be Engineering graduate in Computer Science with a passion on data analysis. Throughout my studies, I have gained expertise in statistical analysis, data visualization, and programming languages like Python,SQL,C and basics of Java. I am excited to apply my skills in a professional setting and aims to continue learning and growing as a data analyst.
+
+- :seedling: Exploring Data Science.
+
+- :zap: In my free time, I watch anime and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surbhipriya/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
 
