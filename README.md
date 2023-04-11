@@ -39,7 +39,7 @@
  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Java basics" alt="java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg title="MongoDB basics" alt="mongodb" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="MongoDB basics" alt="mongodb" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="VS Code" alt="vscode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
