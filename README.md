@@ -53,4 +53,4 @@
  
  ----
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiP12&layout=compact&theme=vision-friendly-dark)](https://github.com/SurbhiP12/github-readme-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
