@@ -35,4 +35,18 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
-
+<div>
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/programming languages/python.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/programming languages/java.svg" title="Java basics" alt="java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/databases/mysql.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/databases/mongodb.svg" title="MongoDB basics" alt="mongodb" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/text editors/vscode.svg" title="VS Code" alt="vscode" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/ides/eclipse.svg" title="Eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/ides/pycharm.svg" title="Pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/angular.svg" title="Angular" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/html.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/frameworks/css.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/LOGO/Tableau/images/logo-black.svg" title="Tableau" alt="python" width="40" height="40"/>&nbsp;
+ <img src="https://www.flaticon.com/free-icon/excel_888850" title="MS Excel" width="40" height="40"/>&nbsp;
+ 
