@@ -51,3 +51,4 @@
  <img src="https://github.com/SurbhiP12/IPL-Data-Analysis-using-Excel/blob/main/excel.png" title="MS Excel" alt="excel" width="40" height="40"/>&nbsp;
  </div>
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiP12&layout=compact&theme=vision-friendly-dark)](https://github.com/SurbhiP12/github-readme-stats)
