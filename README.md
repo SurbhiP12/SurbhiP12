@@ -22,7 +22,7 @@
 
 ---
 
-### :woman_technologist: About Me :I am an aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :woman_technologist: About Me : I am an aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 :telescope: I am a soon-to-be Engineering graduate in Computer Science with a passion on data analysis. Throughout my studies, I have gained expertise in statistical analysis, data visualization, and programming languages like Python,SQL,C and basics of Java. I am excited to apply my skills in a professional setting and aims to continue learning and growing as a data analyst.
 
