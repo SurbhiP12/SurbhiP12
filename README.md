@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/surbhipriya/">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin &logoColor=white" alt="Linkedin Badge"/>
 </a>
-<a href="https:btspriya0109.wixsite.com/surbhisabode">
+<a href="https://btspriya0109.wixsite.com/surbhisabode">
 <img src="https://img.shields.io/badge/Portfolio-Blue?style=for-the-badge&logo=Portfolio &logoColor=white" alt="Portfolio Badge"/>
 </a>
 <a href="https://www.twitter.com/_priya_twt">
